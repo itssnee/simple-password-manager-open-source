@@ -14,3 +14,6 @@ Step 4: enjoy.
 # Credits
 Thanks to https://github.com/SVijayB/Password-Manager/  for making the normal version, if I should take this remastered password manager down, please dm me via discord(Snee#1337).
 If you still have any questions, feel free to join my support server https://discord.gg/WUjKp3ExC6
+
+# Information
+I will continue remastering this open source password manager, if this project hits 10 stars.
