@@ -1,6 +1,9 @@
 # If Installed correctly you should see this after starting
 ![image](https://media.discordapp.net/attachments/1023911532108709898/1050528433828016128/image.png)
 
+# Disclaimer
+Please don't use this code for any illegal purposes, I remastered this programm for fun and it shouldn't be abused, I am not responsible for the user's actions, this project is just a normal project to learn coding. Please don't skid this project Plus skidding won't make you cool or a coder :)
+
 # Open source Password Manager | Disclaimer
 Original: https://github.com/SVijayB/Password-Manager/ | I remastered this password manager
 
